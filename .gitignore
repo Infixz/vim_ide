@@ -1,5 +1,6 @@
-bundle
 !bundle/Vundle.vim
+!bundle/vundle
+bundle/
 .DS_Store
 */.DS_Store
 *.bak
